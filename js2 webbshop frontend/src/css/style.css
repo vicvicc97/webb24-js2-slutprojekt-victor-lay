@@ -1,0 +1,136 @@
+* {
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.searchBar {
+  display: flex;
+  justify-content: center;
+}
+
+.navBar {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+.navBar button {
+  padding: 8px;
+  margin: 0 10px;
+  border-style: 1px black;
+  border-radius: 2px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.navBar button:hover {
+  background-color: #d4d4d4;
+}
+
+#title {
+  text-align: center;
+  justify-content: center;
+}
+
+.productBtn {
+  cursor: pointer;
+}
+
+.purchaseConf {
+  text-align: center;
+}
+
+.productPage {
+  padding: 15px;
+  text-align: center;
+  }
+
+.productList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.productCard {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 15px;
+  width: 220px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.productImg {
+  width: 100%;
+  height: auto;
+  padding: 15px;
+}
+
+h2 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+p {
+  font-size: 16px;
+  color: #555;
+}
+
+.shoppingCart {
+  margin: 25px;
+  text-align: center;
+  border-style: 1px black;
+  border-radius: 2px;
+}
+
+.shoppingCart ul {
+  list-style-type: none;
+}
+
+.shoppingCartBtn {
+  padding: 8px;
+  margin: 5px;
+  font-weight: bold;
+  border-style: 1px black;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.shoppingCart button {
+  padding: 8px;
+  margin: 5px;
+  font-weight: bold;
+  border-style: 1px black;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.purchaseConfirmation {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.purchaseConfirmation p {
+  font-weight: bolder;
+}
+
+.purchaseConfirmation ul {
+  list-style-type: none;
+}
+
+.searchBar {
+  margin-top: 10px;
+  padding: 15px;
+}
+
+.sortOptions {
+  text-align: center;
+  padding: 15px;
+}
+
+.errorMsg {
+  text-align: center;
+}
