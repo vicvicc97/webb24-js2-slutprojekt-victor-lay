@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Green Apple",
+    "image": "https://brickhousenutrition.com/cdn/shop/articles/whole_green_apple.jpg?v=1644378677&width=2048",
+    "price": 9.99,
+    "stock": 18
+  },
+  {
+    "id": 2,
+    "name": "Golden Apple",
+    "image": "https://thumbs.dreamstime.com/b/shiny-golden-apple-standing-white-background-golden-apple-standing-white-background-representing-luxury-wealth-success-337210297.jpg",
+    "price": 999999.99,
+    "stock": 0
+  },
+  {
+    "id": 3,
+    "name": "Red Apple",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5IGYUC3NKbfu5Yh66KHwSJpuYG796EKw6g&s",
+    "price": 44.99,
+    "stock": 21
+  },
+  {
+    "id": 4,
+    "name": "Pear",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgE5th5GuvfTGS76O2lNnCrXE13dntE3B3yA&s",
+    "price": 1.09,
+    "stock": 21
+  },
+  {
+    "id": 5,
+    "name": "Orange",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9ErXYDMDvJMNlOqnzJZNc35hrDEPMlQLkMg&s",
+    "price": 1.29,
+    "stock": 27
+  },
+  {
+    "id": 6,
+    "name": "Banana",
+    "image": "https://target.scene7.com/is/image/Target/GUEST_cf4773e6-afec-4aa1-89e7-74b7dfc09973?wid=488&hei=488&fmt=pjpeg",
+    "price": 1.99,
+    "stock": 0
+  }
+]
